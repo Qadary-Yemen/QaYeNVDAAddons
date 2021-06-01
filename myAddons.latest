@@ -1,6 +1,6 @@
 lastAddonVersions = {
 	"inMaintenance" : False,
-	"baseURL" : "https://github.com/Qadary-Yemen/QaYeNVDAAddons/",
+	"baseURL" : "https://raw.githubusercontent.com/Qadary-Yemen/QaYeNVDAAddons/",
 	"devURL" : "dev",
 	"RAT_OCR": {
 		"localURL": "RAT_OCR",
